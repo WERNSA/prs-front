@@ -1,2 +1,2 @@
-# srp-front
-Sistema de Reserva de Pokemon
+# prs-front
+Pokemon Reserve system
